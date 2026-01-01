@@ -1,7 +1,8 @@
+import '@/index.css'
 function App() {
   return (
     <>
-      <h1>Redux Toolkit</h1>
+      <h1 className='font-bold text-5xl'>Redux Toolkit</h1>
     </>
   );
 }
